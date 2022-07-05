@@ -19,6 +19,7 @@ function sumOfNumbers(arrayOfNumbers) {
     total += arrayOfNumbers[i];
   return total;
 }
+
 assignment.sumOfNumbers = sumOfNumbers;
 
 /**
@@ -38,6 +39,7 @@ function countEvenNumbers(arrayOfNumbers) {
     }
   return count;
 }
+
 assignment.countEvenNumbers = countEvenNumbers;
 
 /**
